@@ -37,3 +37,21 @@ button {
 .no{
     margin-top: 150px;
 }
+
+@media screen and (max-width: 800px){
+  h2{
+    font-size: 15px;
+  }
+  button{
+    font-size: 10px
+  }
+}
+
+@media screen and (max-width: 500px){
+  h2{
+    font-size: 10px;
+  }
+  button{
+    font-size: 7px
+  }
+}
