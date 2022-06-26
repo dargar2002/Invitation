@@ -9,7 +9,7 @@ h2{
     font-family: verdana;
     color:white;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .botones{
@@ -38,18 +38,18 @@ button {
 
 @media screen and (max-width: 800px){
   h2{
-    font-size: 15px;
+    font-size: 25px;
   }
   button{
-    font-size: 10px
+    font-size: 20px
   }
 }
 
 @media screen and (max-width: 500px){
   h2{
-    font-size: 10px;
+    font-size: 20px;
   }
   button{
-    font-size: 7px
+    font-size: 15px
   }
 }
